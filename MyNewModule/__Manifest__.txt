@@ -1,0 +1,21 @@
+
+# -*- coding: utf-8 -*-
+
+{
+    'name': 'Polish_states',
+    'version': '1.0',
+    'category': 'States',
+    'sequence': 5,
+    'summary': 'Track leads and close opportunities',
+    'description': "Importing Polish states",
+    'website': 'https://www.odoo.com/page/crm',
+    'depends': [
+        'base_setup',
+        'mail',
+        'calendar',
+        'contacts',
+    ],
+    'data': [
+        'data/res.country.state.csv',
+    ],
+}
