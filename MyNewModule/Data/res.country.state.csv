@@ -1,4 +1,4 @@
-id,name
-pl_state.1,Dolnoslaskie
-pl_state.2,Mazowieckie
-pl_state.3,Pomorskie
+id,name,country_id/id
+pl_state.1,Dolnoslaskie,base.pl
+pl_state.2,Mazowieckie,base.pl
+pl_state.3,Pomorskie,base.pl
